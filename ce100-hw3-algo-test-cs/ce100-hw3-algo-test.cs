@@ -33,8 +33,8 @@ public class HuffmanTreeTests
         HuffmanTree.Compress(randomFilePath, compressedRandomFilePath);
 
         // Decompress the compressed music and random files
-        string decompressedMusicFilePath = @"path/to/decompressed/music/file";
-        string decompressedRandomFilePath = @"path/to/decompressed/random/file";
+        string decompressedMusicFilePath = @"decompressedgrind.mp3";
+        string decompressedRandomFilePath = @"decompressedrandom.txt";
         HuffmanTree.Decompress(compressedMusicFilePath, decompressedMusicFilePath);
         HuffmanTree.Decompress(compressedRandomFilePath, decompressedRandomFilePath);
 
