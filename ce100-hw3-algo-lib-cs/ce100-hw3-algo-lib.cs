@@ -1,3 +1,10 @@
+/**
+ *
+ * Copyright (C) 2023 Beru Hinode on behalf of Ahmet KAYA
+ *
+ * SPDX-License-Identifier: GPL-2.0-only
+ *
+ */
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
