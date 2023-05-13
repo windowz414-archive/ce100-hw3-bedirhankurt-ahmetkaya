@@ -7,3 +7,9 @@ Members;
 - Ahmet KAYA (ahmet_kaya21@erdogan.edu.tr, GitHub username: ahmetkayatr)
 
 Instructor: Ugur CORUH (GitHub username: ucoruh)
+
+-----
+
+### External Copyright-Free Stuff Used in This Project
+
+`ce100-hw3-algo-test-cs/grind.mp3`: "The Grind" by Realistik
